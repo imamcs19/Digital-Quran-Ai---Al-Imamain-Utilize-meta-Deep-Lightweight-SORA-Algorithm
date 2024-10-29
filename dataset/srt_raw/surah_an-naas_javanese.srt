@@ -1,15 +1,18 @@
 1
-00:00:00,000 --> 00:00:02,000
-Ngendika: "Aku nyuwun perlindungan marang Gusti wong-wong,
+00:00:00,000 --> 01:00:00,000
+Ngendika: “Aku nyuwun perlindungan marang Gusti wong-wong,
 2
-00:00:02,000 --> 00:00:04,000
+01:00:00,000 --> 02:00:00,000
 Raja wong-wong,
 3
-00:00:04,000 --> 00:00:06,000
+02:00:00,000 --> 03:00:00,000
 Sembahan wong-wong,
 4
-00:00:06,000 --> 00:00:08,000
-saka kejahatan bisikan (setan) sing ndhelik,"
+03:00:00,000 --> 04:00:00,000
+saka kejahatan (bisikan) setan sing ndhelik,
 5
-00:00:08,000 --> 00:00:10,000
-"sing mbisikake (kejahatan) ing sajroning dada wong-wong."
+04:00:00,000 --> 05:00:00,000
+sing mbisikake (kejahatan) ing sajroning dada wong-wong,
+6
+05:00:00,000 --> 06:00:00,000
+saka (golongan) jin lan wong.”
