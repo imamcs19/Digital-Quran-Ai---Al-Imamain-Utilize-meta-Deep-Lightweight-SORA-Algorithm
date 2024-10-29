@@ -1,0 +1,1826 @@
+{
+    "key1": {
+        "audio_name": "1AlFaatihah.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            100.20571428571428
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            100.20571428571428
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key2": {
+        "audio_name": "2AlBaqarah.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            14099.2
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            14099.2
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key3": {
+        "audio_name": "3AliImran.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            8758.204081632653
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            8758.204081632653
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key4": {
+        "audio_name": "4AnNisaa.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            9109.028571428571
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            9109.028571428571
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key5": {
+        "audio_name": "5AlMaaidah.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            7030.021224489796
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            7030.021224489796
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key6": {
+        "audio_name": "6AlAnaam.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            8144.195918367347
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            8144.195918367347
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key7": {
+        "audio_name": "7AlAaraaf.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            8835.082448979592
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            8835.082448979592
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key8": {
+        "audio_name": "8AlAnfaal.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            3397.198367346939
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            3397.198367346939
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key9": {
+        "audio_name": "9AtTaubah.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            6745.730612244898
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            6745.730612244898
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key10": {
+        "audio_name": "10Yunus.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            4869.1983673469385
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            4869.1983673469385
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key11": {
+        "audio_name": "11Huud.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            5185.201632653061
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            5185.201632653061
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key12": {
+        "audio_name": "12Yusuf.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            4661.185306122449
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            4661.185306122449
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key13": {
+        "audio_name": "13ArRaad.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            2230.204081632653
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            2230.204081632653
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key14": {
+        "audio_name": "14Ibrahim.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            2360.189387755102
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            2360.189387755102
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key15": {
+        "audio_name": "15AlHijr.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            1874.2073469387756
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            1874.2073469387756
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key16": {
+        "audio_name": "16AnNahl.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            4911.568979591837
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            4911.568979591837
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key17": {
+        "audio_name": "17AlIsraa.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            3913.090612244898
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            3913.090612244898
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key18": {
+        "audio_name": "18AlKahfi.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            3761.7632653061223
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            3761.7632653061223
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key19": {
+        "audio_name": "19Maryam.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            2641.972244897959
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            2641.972244897959
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key20": {
+        "audio_name": "20Thaahaa2.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            3462.1910204081632
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            3462.1910204081632
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key21": {
+        "audio_name": "21AlAnbiyaa.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            3157.420408163265
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            3157.420408163265
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key22": {
+        "audio_name": "22AlHajj.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            3487.1902040816326
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            3487.1902040816326
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key23": {
+        "audio_name": "23AlMuminuun.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            2910.1975510204084
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            2910.1975510204084
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key24": {
+        "audio_name": "24AnNuur.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            3547.193469387755
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            3547.193469387755
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key25": {
+        "audio_name": "25AlFurqaan.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            2328.7902040816325
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            2328.7902040816325
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key26": {
+        "audio_name": "26AsySyuaaraa.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            3894.204081632653
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            3894.204081632653
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key27": {
+        "audio_name": "27AnNaml.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            3232.1828571428573
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            3232.1828571428573
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key28": {
+        "audio_name": "28AlQashash.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            3855.2032653061224
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            3855.2032653061224
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key29": {
+        "audio_name": "29AlAnkabuut.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            2566.086530612245
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            2566.086530612245
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key30": {
+        "audio_name": "30ArRuum.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            2296.97306122449
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            2296.97306122449
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key31": {
+        "audio_name": "31Luqman.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            1482.109387755102
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            1482.109387755102
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key32": {
+        "audio_name": "32AsSajdah.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            1068.1991836734694
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            1068.1991836734694
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key33": {
+        "audio_name": "33AlAhzab.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            3632.195918367347
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            3632.195918367347
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key34": {
+        "audio_name": "34Sabaa.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            2504.176326530612
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            2504.176326530612
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key35": {
+        "audio_name": "35Faathir.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            2214.1910204081632
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            2214.1910204081632
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key36": {
+        "audio_name": "36Yaasiin.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            2119.549387755102
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            2119.549387755102
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key37": {
+        "audio_name": "37AshShaaffaat.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            2956.1208163265305
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            2956.1208163265305
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key38": {
+        "audio_name": "38Shaad.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            2271.1902040816326
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            2271.1902040816326
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key39": {
+        "audio_name": "39AzZumar.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            3247.098775510204
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            3247.098775510204
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key40": {
+        "audio_name": "40AlMuumin.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            3173.0155102040817
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            3173.0155102040817
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key41": {
+        "audio_name": "41Fushshilat.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            2204.7869387755104
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            2204.7869387755104
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key42": {
+        "audio_name": "42AsySyuura.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            2217.1951020408164
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            2217.1951020408164
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key43": {
+        "audio_name": "43AzZukhruf.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            2372.3885714285716
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            2372.3885714285716
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key44": {
+        "audio_name": "44AdDukhaan.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            1104.1959183673468
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            1104.1959183673468
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key45": {
+        "audio_name": "45AlJaatsiyah.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            1314.0375510204083
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            1314.0375510204083
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key46": {
+        "audio_name": "46AlAhqaaf.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            1772.1991836734694
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            1772.1991836734694
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key47": {
+        "audio_name": "47Muhammad.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            1502.902857142857
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            1502.902857142857
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key48": {
+        "audio_name": "48AlFath.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            1480.2024489795917
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            1480.2024489795917
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key49": {
+        "audio_name": "49AlHujuraat.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            987.1934693877552
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            987.1934693877552
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key50": {
+        "audio_name": "50Qaaf.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            1089.1232653061224
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            1089.1232653061224
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key51": {
+        "audio_name": "51AdzDzaariyaat.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            1109.0808163265306
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            1109.0808163265306
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key52": {
+        "audio_name": "52AthThuur.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            764.6563265306122
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            764.6563265306122
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key53": {
+        "audio_name": "53AnNajm.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            1006.7591836734694
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            1006.7591836734694
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key54": {
+        "audio_name": "54AlQamar.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            1052.1861224489796
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            1052.1861224489796
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key55": {
+        "audio_name": "55ArRahmaan.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            1163.206530612245
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            1163.206530612245
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key56": {
+        "audio_name": "56AlWaqiah.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            1292.930612244898
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            1292.930612244898
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key57": {
+        "audio_name": "57AlHadiid.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            1558.8048979591836
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            1558.8048979591836
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key58": {
+        "audio_name": "58AlMujaadilah.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            1280.391836734694
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            1280.391836734694
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key59": {
+        "audio_name": "59AlHasyr.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            1229.1918367346939
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            1229.1918367346939
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key60": {
+        "audio_name": "60AlMumtahanah.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            920.1893877551021
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            920.1893877551021
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key61": {
+        "audio_name": "61AshShaff.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            562.2073469387755
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            562.2073469387755
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key62": {
+        "audio_name": "62AlJumuah.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            429.9755102040816
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            429.9755102040816
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key63": {
+        "audio_name": "63AlMunaafiquun.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            525.8710204081633
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            525.8710204081633
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key64": {
+        "audio_name": "64AtTaghaabun.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            667.8726530612245
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            667.8726530612245
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key65": {
+        "audio_name": "65AthThalaaq.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            702.8244897959183
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            702.8244897959183
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key66": {
+        "audio_name": "66AtTahrim.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            686.1844897959184
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            686.1844897959184
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key67": {
+        "audio_name": "67AlMulk.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            930.1942857142857
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            930.1942857142857
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key68": {
+        "audio_name": "68AlQalam.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            937.1951020408163
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            937.1951020408163
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key69": {
+        "audio_name": "69AlHaaqqah.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            781.8187755102041
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            781.8187755102041
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key70": {
+        "audio_name": "70AlMaaarij.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            619.8334693877551
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            619.8334693877551
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key71": {
+        "audio_name": "71Nuh.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            615.8367346938776
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            615.8367346938776
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key72": {
+        "audio_name": "72AlJin.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            757.185306122449
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            757.185306122449
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key73": {
+        "audio_name": "73AlMuzzammil.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            509.20489795918365
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            509.20489795918365
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key74": {
+        "audio_name": "74AlMuddatstsir.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            696.1893877551021
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            696.1893877551021
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key75": {
+        "audio_name": "75AlQiyaamah.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            414.1975510204082
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            414.1975510204082
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key76": {
+        "audio_name": "76AlInsaan.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            684.1991836734694
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            684.1991836734694
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key77": {
+        "audio_name": "77AlMursalaat.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            634.2008163265306
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            634.2008163265306
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key78": {
+        "audio_name": "78AnNaba.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            560.195918367347
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            560.195918367347
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key79": {
+        "audio_name": "79AnNaaziaat.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            547.5004081632653
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            547.5004081632653
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key80": {
+        "audio_name": "80Abasa.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            429.87102040816325
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            429.87102040816325
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key81": {
+        "audio_name": "81AtTakwiir.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            318.1975510204082
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            318.1975510204082
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key82": {
+        "audio_name": "82AlInfithaar.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            259.1869387755102
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            259.1869387755102
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key83": {
+        "audio_name": "83AlMuthaffifin.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            565.1069387755102
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            565.1069387755102
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key84": {
+        "audio_name": "84AlInsyiqaaq.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            320.18285714285713
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            320.18285714285713
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key85": {
+        "audio_name": "85AlBuruuj.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            344.894693877551
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            344.894693877551
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key86": {
+        "audio_name": "86AthThaariq.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            211.2
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            211.2
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key87": {
+        "audio_name": "87AlAalaa.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            236.19918367346938
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            236.19918367346938
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key88": {
+        "audio_name": "88AlGhaasyiyah.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            271.88244897959186
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            271.88244897959186
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key89": {
+        "audio_name": "89AlFajr.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            407.19673469387754
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            407.19673469387754
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key90": {
+        "audio_name": "90AlBalad.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            242.20734693877552
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            242.20734693877552
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key91": {
+        "audio_name": "91AsySyams.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            181.15918367346939
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            181.15918367346939
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key92": {
+        "audio_name": "92AlLail.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            253.20489795918368
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            253.20489795918368
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key93": {
+        "audio_name": "93AdhDhuhaa.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            147.2
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            147.2
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key94": {
+        "audio_name": "94AlamNasyrah.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            84.92408163265306
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            84.92408163265306
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key95": {
+        "audio_name": "95AtTiin.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            116.11428571428571
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            116.11428571428571
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key96": {
+        "audio_name": "96AlAlaq.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            236.19918367346938
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            236.19918367346938
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key97": {
+        "audio_name": "97AlQadr.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            80.19591836734693
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            80.19591836734693
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key98": {
+        "audio_name": "98AlBayyinah.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            247.19673469387754
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            247.19673469387754
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key99": {
+        "audio_name": "99AlZalzalah.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            124.18612244897959
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            124.18612244897959
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key100": {
+        "audio_name": "100AlAadiyaat.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            141.19183673469388
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            141.19183673469388
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key101": {
+        "audio_name": "101AlQaariah.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            114.20734693877552
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            114.20734693877552
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key102": {
+        "audio_name": "102AtTakaatsur.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            115.98367346938775
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            115.98367346938775
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key103": {
+        "audio_name": "103AlAshr.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            52.19265306122449
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            52.19265306122449
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key104": {
+        "audio_name": "104AlHumazah.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            108.19918367346939
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            108.19918367346939
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key105": {
+        "audio_name": "105AlFiil.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            82.20734693877552
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            82.20734693877552
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key106": {
+        "audio_name": "106Quraisy.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            70.89632653061224
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            70.89632653061224
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key107": {
+        "audio_name": "107AlMaauun.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            86.20408163265306
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            86.20408163265306
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key108": {
+        "audio_name": "108AlKautsar.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            51.800816326530615
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            51.800816326530615
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key109": {
+        "audio_name": "109AlKaafiruun.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            86.77877551020408
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            86.77877551020408
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key110": {
+        "audio_name": "110AnNashr.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            58.95836734693878
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            58.95836734693878
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key111": {
+        "audio_name": "111AlLahab.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            73.19510204081632
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            73.19510204081632
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key112": {
+        "audio_name": "112AlIkhlash.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            43.10204081632653
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            43.10204081632653
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key113": {
+        "audio_name": "113AlFalaq.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            64.78367346938775
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            64.78367346938775
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    },
+    "key114": {
+        "audio_name": "114AnNaas.mp3",
+        "time_intervals_fund": [
+            11,
+            24,
+            38,
+            75.2065306122449
+        ],
+        "time_intervals_complete": [
+            11,
+            24,
+            38,
+            75.2065306122449
+        ],
+        "srt": "surah_al_kautsar_combined14.srt"
+    }
+}
